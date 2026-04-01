@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/private/',
     },
-    sitemap: 'https://marchysdecks.ca/sitemap.xml',
+    sitemap: 'https://marchyscustomdecks.ca/sitemap.xml',
   };
 }

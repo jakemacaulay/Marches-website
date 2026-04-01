@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://marchysdecks.ca'; // We'll use a placeholder URL for now, you can update this when you have the final domain.
+  const baseUrl = 'https://marchyscustomdecks.ca'; // Updated to final domain
   const lastModified = new Date();
 
   const routes = ['', '/about', '/contact', '/projects', '/reviews'];
