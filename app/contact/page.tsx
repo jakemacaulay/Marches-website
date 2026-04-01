@@ -6,7 +6,11 @@ import Footer from "../components/Footer";
 import ScrollReveal from "../components/ScrollReveal";
 
 export default function ContactPage() {
-  const [state, setState] = useState({
+  const [state, setState] = useState<{
+    submitting: boolean;
+    succeeded: boolean;
+    errors: string | null;
+  }>({
     submitting: false,
     succeeded: false,
     errors: null
