@@ -24,7 +24,7 @@ export default function Navbar() {
               Marchy&apos;s Custom Decks
             </p>
             <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-[#d10f1a]">
-              Locally Owned & Operated
+              Fully Licensed and Insured
             </p>
           </div>
         </Link>
