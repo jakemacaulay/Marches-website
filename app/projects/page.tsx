@@ -18,7 +18,6 @@ export default function ProjectsPage() {
     { src: "/project8.jpeg", title: "Composite Deck", tag: "Custom Deck", desc: "Transform the front of your home with a stunning new deck that will not only upgrade curb appeal but sustainability and durability" },
     { src: "/project9.jpeg", title: "Front Pergola", tag: "Custom Build", desc: "Transform the front of your home to allow comfortability for any weather scenario" },
     { src: "/project11.jpg", title: "Backyard Dream", tag: "Custom Build", desc: "Design a backyard built for entertaining. Where family, friends, and neighbours come together, and every gathering makes you the talk of the town." },
-    { src: "/project12.jpeg", title: "Pressure Treated Deck", tag: "Demo", desc: "Elevate your outdoor living with pressure treated decks built beyond code and crafted to impress." },
     { src: "/project13.jpeg", title: "Custom Features", tag: "Custom Build", desc: "Upgrade your yard with custom planter boxes and handcrafted outdoor features" },
   ];
 

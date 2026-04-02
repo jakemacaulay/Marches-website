@@ -16,24 +16,31 @@ interface Review {
 const INITIAL_REVIEWS: Review[] = [
   {
     id: 1,
-    name: "Sarah Thompson",
+    name: "Cathy P.",
     rating: 5,
-    date: "March 15, 2026",
-    comment: "Marchy's team did an incredible job on our composite deck. The attention to detail and professional communication made the whole process stress-free. Highly recommend!"
+    date: "May 28, 2025",
+    comment: "Excellent all around. They have a great work ethic, professional, attention to detail, friendly and deliver above and beyond on product. We are super happy with our deck project they completed for us."
   },
   {
     id: 2,
-    name: "Mike Robertson",
+    name: "Chris B.",
     rating: 5,
-    date: "February 28, 2026",
-    comment: "Fast, reliable, and high-quality work. They transformed our backyard into a beautiful outdoor space. Best deck builders in Halifax."
+    date: "August 17, 2024",
+    comment: "Great pricing, communication and amazing quality of work!"
   },
   {
     id: 3,
-    name: "Emily Chen",
-    rating: 4,
-    date: "January 12, 2026",
-    comment: "Very happy with our new pressure-treated deck. The crew was professional and cleaned up thoroughly after the job. Excellent craftsmanship."
+    name: "Kyler M.",
+    rating: 5,
+    date: "December 1, 2024",
+    comment: "Best of the best. Great Company"
+  },
+  {
+    id: 4,
+    name: "Jim C.",
+    rating: 5,
+    date: "March 30, 2026",
+    comment: "Very knowledgable and care about attention to detail. They make sure you are getting what you want, expect and need. Super hard working crew."
   }
 ];
 
