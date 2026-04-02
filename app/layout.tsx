@@ -28,6 +28,10 @@ export const metadata: Metadata = {
     title: "Marchy's Custom Decks Inc. | Premium Outdoor Spaces in Nova Scotia",
     description: "Family owned and operated construction company specializing in custom decks, renovations, and new residential construction in Halifax and surrounding areas.",
   },
+  icons: {
+    icon: "/logo.png",
+    apple: "/logo.png",
+  },
 };
 
 export default function RootLayout({
